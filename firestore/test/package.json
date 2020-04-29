@@ -1,0 +1,14 @@
+{
+  "name": "firestore-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ryan Lafferty",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/firestore": "^3.7.5"
+  }
+}
